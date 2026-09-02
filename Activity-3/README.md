@@ -4,3 +4,6 @@ Hi, I am Poornima Raju, a B.Tech Computer Science and Engineering student at REV
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+## Projects
+
+I am planning to build a Routine Recommender and Productive Planner using Python.
