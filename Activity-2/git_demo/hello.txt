@@ -1,0 +1,4 @@
+Hello World
+This is my GitLens test.
+GitLens is installed.
+GitLens helps me understand Git history.
