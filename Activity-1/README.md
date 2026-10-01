@@ -27,3 +27,11 @@ Hello, World!
 ### Conclusion
 
 Through this activity, I learned how to create basic programs in C and C++, understand their basic syntax, compile the programs using GCC, and execute them through the Visual Studio Code terminal. I also understood the basic difference between displaying output using `printf()` in C and `std::cout` in C++.
+
+
+## Collaboration Log
+
+- **Partner Name:** [Pavana M]
+- **GitHub Username:** [pavana2605]
+- **Work Completed:** Collaborated using VS Code Live Share to modify the `hello.c` program by creating a `greet()` function that accepts a person's name and displays a personalized welcome message.
+- **Learning Outcome:** Learned how GitLens can be used to view commit history and identify the author of individual lines using Git blame.
